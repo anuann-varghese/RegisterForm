@@ -11,7 +11,7 @@ body{height: 100vh;
 .container{
     height: 500px;
     width: 500px;
-    background-color: lightblue;
+    background-color: lightseagreen;
     display: flex;
     flex-direction: column;
     justify-content: center;
